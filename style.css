@@ -77,3 +77,6 @@ button {
     transition: 0.30;
 }
 
+.eliminated {
+    opacity: 20%;
+}
