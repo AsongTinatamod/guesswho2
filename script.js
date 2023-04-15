@@ -49,7 +49,7 @@ let cards = [
     },
     {
       name: 'Laura',
-      image: 'cimages/characters_12.jpg'
+      image: 'images/characters_12.jpg'
     },
     {
       name: 'Mikan',
